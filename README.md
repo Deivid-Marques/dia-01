@@ -2,7 +2,7 @@
 <br>
 <br>
 <h2>Esse projeto eu fiz com front-end</h2>
-<img src="https://github.com/Deivid-Marques/We-care/blob/main/img/phone%20we%20care.png?raw=true" height="200">
+<img src="https://github.com/Deivid-Marques/dia-01/blob/main/assets/tela.png?raw=true" height="200">
 <br>
 <h2>Tecnologias utilizadas</h2>
 <p>HTML</p>
